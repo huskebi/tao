@@ -1,11 +1,11 @@
 项目目录划分  
 src -- 项目源码  
-  java -- java源代码  
-    tao-application  
-    tao-service  
-    tao-client  
-    tao-common  
-    tao-model   
+>>java -- java源代码  
+>>tao-application  
+>>tao-service  
+>>tao-client  
+>>tao-common  
+>>tao-model   
   web  -- 前台源代码  
     tao-merchant-manage -- 商家后台管理系统  
     tao-mall-h5        -- 商城h5手机  
